@@ -1,0 +1,28 @@
+{
+  "name": "myserver",
+  "version": "1.0.0",
+  "description": "Personal Server ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akhilam512/MeraServer-.git"
+  },
+  "keywords": [
+    "nodejs",
+    "personal",
+    "tabpage"
+  ],
+  "author": "akhilam512",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/akhilam512/MeraServer-/issues"
+  },
+  "homepage": "https://github.com/akhilam512/MeraServer-#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
